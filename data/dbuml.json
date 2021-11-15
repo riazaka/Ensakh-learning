@@ -1,0 +1,17 @@
+{
+    "cours": [
+      {
+        "title": "diag de classe",
+        "volume": "2 heures",
+        "difficulté": "3/5",
+        "id": 1,
+        "publishedAt": "2021-09-08"
+      },
+      {
+        "title": "diag de cas dutili",
+        "volume": "2 heures",
+        "difficulté": "étoiles",
+        "id": 2,
+        "publishedAt": "2021-09-08"
+      }
+    ]}

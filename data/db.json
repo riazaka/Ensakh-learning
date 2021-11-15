@@ -1,0 +1,302 @@
+{
+  "coursalgorithmique": [
+    {
+      "title": "Eléments d'algorithmique",
+      "volume": "2 heures",
+      "difficulté": "3/5",
+      "id": 1,
+      "publishedAt": "2021-09-08"
+    },
+    {
+      "title": "Récursivité",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 2,
+      "publishedAt": "2021-09-08"
+    },
+    {
+      "title": "Algorithme de tri",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 3,
+      "publishedAt": "2021-09-08"
+    },
+    {
+      "title": "Structure de données abstrait",
+      "volume": "1 heures",
+      "difficulté": "étoiles",
+      "id": 4,
+      "publishedAt": "2021-09-08"
+    },
+    {
+      "title": "Pointeur",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 5,
+      "publishedAt": "2021-09-08"
+    },
+    {
+      "title": "Tableaux",
+      "volume": "1 heures",
+      "difficulté": "étoiles",
+      "id": 6,
+      "publishedAt": "2021-09-08"
+    },
+    {
+      "title": "Listes chainées",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 7,
+      "publishedAt": "2021-09-08"
+    },
+    {
+      "title": "Pile et file",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 8,
+      "publishedAt": "2021-09-08"
+    },
+    {
+      "title": "Tableau de hachage",
+      "volume": "1 heures",
+      "difficulté": "étoiles",
+      "id": 9,
+      "publishedAt": "2021-09-08"
+    },
+    {
+      "title": "Arbre binaire",
+      "volume": "1 heures",
+      "difficulté": "étoiles",
+      "id": 10,
+      "publishedAt": "2021-09-08"
+    },
+    {
+      "title": "Arbre binaire de recherche",
+      "volume": "1 heures",
+      "difficulté": "étoiles",
+      "id": 11,
+      "publishedAt": "2021-09-08"
+    },
+    {
+      "title": "AVL",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 12,
+      "publishedAt": "2021-09-08"
+    },
+    {
+      "title": "Tas",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 13,
+      "publishedAt": "2021-09-08"
+    },
+    {
+      "title": "tas",
+      "volume": "2 heures",
+      "difficulté": "5",
+      "publishedAt": "2021-09-08",
+      "id": 14
+    },
+    {
+      "title": "arbre binaire",
+      "volume": "25",
+      "difficulté": "3/5",
+      "publishedAt": "2021-09-12",
+      "id": 15
+    }
+  ],
+  "exoappalgorithmique": [
+    {
+      "title": "Eléments d'algorithmique",
+      "volume": "12 heures",
+      "difficulté": "étoiles",
+      "id": 1
+    },
+    {
+      "title": "Récursivité",
+      "volume": "20 heures",
+      "difficulté": "étoiles",
+      "id": 2
+    },
+    {
+      "title": "Algorithme de tri",
+      "volume": "20 heures",
+      "difficulté": "étoiles",
+      "id": 3
+    },
+    {
+      "title": "Listes chainées",
+      "volume": "8 heures",
+      "difficulté": "étoiles",
+      "id": 7
+    },
+    {
+      "title": "Pile et file",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 8
+    },
+    {
+      "title": "Tableau de hachage",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 9
+    },
+    {
+      "title": "Arbre binaire",
+      "volume": "1 heures",
+      "difficulté": "étoiles",
+      "id": 10
+    },
+    {
+      "title": "Arbre binaire de recherche",
+      "volume": "4 heures",
+      "difficulté": "étoiles",
+      "id": 11
+    },
+    {
+      "title": "AVL",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 12
+    },
+    {
+      "title": "Tas",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 13
+    }
+  ],
+  "exoalgorithmique": [
+    {
+      "title": "Algorithmique",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 1
+    },
+    {
+      "title": "Récursivité et Tri",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 2
+    },
+    {
+      "title": "Structure de données",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 3
+    },
+    {
+      "title": "Arbres",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 7
+    }
+  ],
+  "appalgorithmique": [
+    {
+      "title": "Projet 2016",
+      "volume": "24 heures",
+      "difficulté": "étoiles",
+      "id": 1
+    },
+    {
+      "title": "Projet 2015",
+      "volume": "24 heures",
+      "difficulté": "étoiles",
+      "id": 2
+    }
+  ],
+  "ongletsalgorithmique": [
+    {
+      "title": "cours",
+      "path": "/welcome",
+      "id": 1
+    },
+    {
+      "title": "Exercices d'application",
+      "path": "/exoapp",
+      "id": 2
+    },
+    {
+      "title": "Exercices",
+      "path": "/exo",
+      "id": 3
+    },
+    {
+      "title": "Application",
+      "path": "/app",
+      "id": 4
+    },
+    {
+      "title": "exam",
+      "path": "/exam",
+      "id": 5
+    }
+  ],
+  "coursuml": [
+    {
+      "title": "diag de classe",
+      "volume": "2 heures",
+      "difficulté": "3/5",
+      "id": 1,
+      "publishedAt": "2021-09-08"
+    },
+    {
+      "title": "diag de cas dutili",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 2,
+      "publishedAt": "2021-09-08"
+    }
+  ],
+  "exouml": [
+    {
+      "title": "diag de classe",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 1
+    },
+    {
+      "title": "diag de cdu",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 2
+    },
+    {
+      "title": "Structure de données",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 3
+    },
+    {
+      "title": "Arbres",
+      "volume": "2 heures",
+      "difficulté": "étoiles",
+      "id": 7
+    }
+  ], "ongletsuml": [
+    {
+      "title": "cours",
+      "path": "/uml",
+      "id": 1
+    },
+    {
+      "title": "Exercices d'application",
+      "path": "/exoappuml",
+      "id": 2
+    },
+    {
+      "title": "Exercices",
+      "path": "/exouml",
+      "id": 3
+    },
+    {
+      "title": "Application",
+      "path": "/appuml",
+      "id": 4
+    }
+  ]
+
+}
